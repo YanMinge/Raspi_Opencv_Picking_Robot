@@ -3,7 +3,7 @@ This is code for a picking robot
 
 【软硬件需求】
 1. 树莓派2开发板一块
-2. Makeblock机械零件若干，详细可见帖子(已包含电机，舵机灯执行器件):
+2. Makeblock机械零件若干，详细可见帖子(已包含电机，舵机等执行器件):
    http://bbs.makeblock.cc/thread-716-1-1.html
 3. opencv 2.4.10  (使用其它版本可能会遇到兼容性问题)
 4. Makeblock Orion主板一块
